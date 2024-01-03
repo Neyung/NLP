@@ -6,7 +6,7 @@ This is our capstone project for the Natural Language Processing course at the U
 ---
 
 # DEMO 
-To be able to use the interface, please visit: [[Here](https://github.com/Neyung/NLP/blob/main/UI/UI/NLP.py)]
+To be able to use the interface, please use: NLP.py - [[Here](https://github.com/Neyung/NLP/blob/main/UI/UI/NLP.py)]
 
 ---
 
