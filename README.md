@@ -1,5 +1,5 @@
 # NLP - Label Analysis
-This is our capstone project for the Natural Language Processing course at the University of Economics, Ho Chi Minh City. Within the scope of the project, we conducted an in-depth study of machine learning methods, which included comparing the performance of three popular models: Support Vector Classification (SVC), Gaussian Naive Bayes (GaussianNB), and Decision Tree. We also applied the Ensemble Learning technique through the Random Forest model. In addition, we used the Maxent model combined with Logistic Regression and the deep learning model LSTM to enhance the project's performance.
+This is our final project for the Natural Language Processing course at the University of Economics, Ho Chi Minh City. Within the scope of the project, we conducted an in-depth study of machine learning methods, which included comparing the performance of three popular models: Support Vector Classification (SVC), Gaussian Naive Bayes (GaussianNB), and Decision Tree. We also applied the Ensemble Learning technique through the Random Forest model. In addition, we used the Maxent model combined with Logistic Regression and the deep learning model LSTM to enhance the project's performance.
 
 ---
 ![image](https://github.com/Neyung/NLP/assets/120383829/5000f161-cbbb-425c-89b6-02af1b7b7f51)
